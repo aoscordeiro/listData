@@ -1,0 +1,27 @@
+{
+  "name": "listdata",
+  "version": "1.0.0",
+  "description": "an app that list and map am-invoices data",
+  "keywords": [
+    "sefaz",
+    "notas",
+    "fiscais",
+    "zfm",
+    "alc"
+  ],
+  "homepage": "https://github.com/aoscordeiro/listData#readme",
+  "bugs": {
+    "url": "https://github.com/aoscordeiro/listData/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoscordeiro/listData.git"
+  },
+  "license": "ISC",
+  "author": "aosCordeiro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
